@@ -1,0 +1,6 @@
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/bin/Debug/ALGORITMUS_I.exe
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/bin/Debug/ALGORITMUS_I.pdb
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/obj/Debug/ALGORITMUS_I.csprojAssemblyReference.cache
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/obj/Debug/ALGORITMUS_I.csproj.CoreCompileInputs.cache
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/obj/Debug/ALGORITMUS_I.exe
+/Users/fodorbence/Projects/ALGORITMUS_I/ALGORITMUS_I/obj/Debug/ALGORITMUS_I.pdb
